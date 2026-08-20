@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-6vi8h1.venom88hero.online/sitemap.xml
